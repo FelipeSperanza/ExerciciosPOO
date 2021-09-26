@@ -1,0 +1,16 @@
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.exe
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.deps.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.runtimeconfig.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\bin\Debug\net5.0\ref\ExercicioBanco.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\bin\Debug\net5.0\ExercicioBanco.pdb
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\obj\Debug\net5.0\ref\ExercicioBanco.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.pdb
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\ExercicioBanco\obj\Debug\net5.0\ExercicioBanco.genruntimeconfig.cache

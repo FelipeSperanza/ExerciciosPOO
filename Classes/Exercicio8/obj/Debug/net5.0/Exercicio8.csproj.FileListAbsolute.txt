@@ -1,0 +1,16 @@
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\bin\Debug\net5.0\Exercicio8.exe
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\bin\Debug\net5.0\Exercicio8.deps.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\bin\Debug\net5.0\Exercicio8.runtimeconfig.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\bin\Debug\net5.0\Exercicio8.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\bin\Debug\net5.0\Exercicio8.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\bin\Debug\net5.0\ref\Exercicio8.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\bin\Debug\net5.0\Exercicio8.pdb
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\obj\Debug\net5.0\Exercicio8.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\obj\Debug\net5.0\Exercicio8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\obj\Debug\net5.0\Exercicio8.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\obj\Debug\net5.0\Exercicio8.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\obj\Debug\net5.0\Exercicio8.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\obj\Debug\net5.0\Exercicio8.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\obj\Debug\net5.0\ref\Exercicio8.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\obj\Debug\net5.0\Exercicio8.pdb
+C:\Users\Felipe\Desktop\Exercicios fixação\Classes\Exercicio8\obj\Debug\net5.0\Exercicio8.genruntimeconfig.cache

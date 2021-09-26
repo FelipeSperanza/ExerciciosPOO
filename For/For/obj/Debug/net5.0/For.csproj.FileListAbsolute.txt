@@ -1,0 +1,15 @@
+C:\Users\Felipe\source\repos\For\For\bin\Debug\net5.0\For.exe
+C:\Users\Felipe\source\repos\For\For\bin\Debug\net5.0\For.deps.json
+C:\Users\Felipe\source\repos\For\For\bin\Debug\net5.0\For.runtimeconfig.json
+C:\Users\Felipe\source\repos\For\For\bin\Debug\net5.0\For.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\For\For\bin\Debug\net5.0\For.dll
+C:\Users\Felipe\source\repos\For\For\bin\Debug\net5.0\ref\For.dll
+C:\Users\Felipe\source\repos\For\For\bin\Debug\net5.0\For.pdb
+C:\Users\Felipe\source\repos\For\For\obj\Debug\net5.0\For.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\For\For\obj\Debug\net5.0\For.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\For\For\obj\Debug\net5.0\For.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\For\For\obj\Debug\net5.0\For.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\For\For\obj\Debug\net5.0\For.dll
+C:\Users\Felipe\source\repos\For\For\obj\Debug\net5.0\ref\For.dll
+C:\Users\Felipe\source\repos\For\For\obj\Debug\net5.0\For.pdb
+C:\Users\Felipe\source\repos\For\For\obj\Debug\net5.0\For.genruntimeconfig.cache

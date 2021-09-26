@@ -1,0 +1,16 @@
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.exe
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.deps.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.runtimeconfig.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\bin\Debug\net5.0\ref\ExercicioFixacao.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\bin\Debug\net5.0\ExercicioFixacao.pdb
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\obj\Debug\net5.0\ref\ExercicioFixacao.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.pdb
+C:\Users\Felipe\Desktop\Exercicios fixação\Enumeracoes\ExercicioFixacao\obj\Debug\net5.0\ExercicioFixacao.genruntimeconfig.cache

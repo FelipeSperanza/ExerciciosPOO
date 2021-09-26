@@ -1,0 +1,15 @@
+C:\Users\Felipe\source\repos\For\Exercicio7\bin\Debug\net5.0\Exercicio7.exe
+C:\Users\Felipe\source\repos\For\Exercicio7\bin\Debug\net5.0\Exercicio7.deps.json
+C:\Users\Felipe\source\repos\For\Exercicio7\bin\Debug\net5.0\Exercicio7.runtimeconfig.json
+C:\Users\Felipe\source\repos\For\Exercicio7\bin\Debug\net5.0\Exercicio7.runtimeconfig.dev.json
+C:\Users\Felipe\source\repos\For\Exercicio7\bin\Debug\net5.0\Exercicio7.dll
+C:\Users\Felipe\source\repos\For\Exercicio7\bin\Debug\net5.0\ref\Exercicio7.dll
+C:\Users\Felipe\source\repos\For\Exercicio7\bin\Debug\net5.0\Exercicio7.pdb
+C:\Users\Felipe\source\repos\For\Exercicio7\obj\Debug\net5.0\Exercicio7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\For\Exercicio7\obj\Debug\net5.0\Exercicio7.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\For\Exercicio7\obj\Debug\net5.0\Exercicio7.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\For\Exercicio7\obj\Debug\net5.0\Exercicio7.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\For\Exercicio7\obj\Debug\net5.0\Exercicio7.dll
+C:\Users\Felipe\source\repos\For\Exercicio7\obj\Debug\net5.0\ref\Exercicio7.dll
+C:\Users\Felipe\source\repos\For\Exercicio7\obj\Debug\net5.0\Exercicio7.pdb
+C:\Users\Felipe\source\repos\For\Exercicio7\obj\Debug\net5.0\Exercicio7.genruntimeconfig.cache

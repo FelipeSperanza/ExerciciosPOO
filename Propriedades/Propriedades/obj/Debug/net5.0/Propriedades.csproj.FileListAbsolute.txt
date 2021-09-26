@@ -1,0 +1,16 @@
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\bin\Debug\net5.0\Propriedades.exe
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\bin\Debug\net5.0\Propriedades.deps.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\bin\Debug\net5.0\Propriedades.runtimeconfig.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\bin\Debug\net5.0\Propriedades.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\bin\Debug\net5.0\Propriedades.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\bin\Debug\net5.0\ref\Propriedades.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\bin\Debug\net5.0\Propriedades.pdb
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\obj\Debug\net5.0\Propriedades.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\obj\Debug\net5.0\Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\obj\Debug\net5.0\Propriedades.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\obj\Debug\net5.0\Propriedades.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\obj\Debug\net5.0\Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\obj\Debug\net5.0\Propriedades.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\obj\Debug\net5.0\ref\Propriedades.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\obj\Debug\net5.0\Propriedades.pdb
+C:\Users\Felipe\Desktop\Exercicios fixação\Propriedades\Propriedades\obj\Debug\net5.0\Propriedades.genruntimeconfig.cache

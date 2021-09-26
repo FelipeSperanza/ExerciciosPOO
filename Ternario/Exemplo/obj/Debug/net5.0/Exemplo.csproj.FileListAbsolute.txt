@@ -1,0 +1,16 @@
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\obj\Debug\net5.0\Exemplo.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\obj\Debug\net5.0\Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\obj\Debug\net5.0\Exemplo.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\obj\Debug\net5.0\Exemplo.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\obj\Debug\net5.0\Exemplo.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\bin\Debug\net5.0\Exemplo.exe
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\bin\Debug\net5.0\Exemplo.deps.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\bin\Debug\net5.0\Exemplo.runtimeconfig.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\bin\Debug\net5.0\Exemplo.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\bin\Debug\net5.0\Exemplo.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\bin\Debug\net5.0\ref\Exemplo.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\bin\Debug\net5.0\Exemplo.pdb
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\obj\Debug\net5.0\Exemplo.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\obj\Debug\net5.0\ref\Exemplo.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\obj\Debug\net5.0\Exemplo.pdb
+C:\Users\Felipe\Desktop\Exercicios fixação\Ternario\Exemplo\obj\Debug\net5.0\Exemplo.genruntimeconfig.cache

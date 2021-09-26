@@ -1,0 +1,16 @@
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\bin\Debug\net5.0\Exercicio8-if.exe
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\bin\Debug\net5.0\Exercicio8-if.deps.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\bin\Debug\net5.0\Exercicio8-if.runtimeconfig.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\bin\Debug\net5.0\Exercicio8-if.runtimeconfig.dev.json
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\bin\Debug\net5.0\Exercicio8-if.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\bin\Debug\net5.0\ref\Exercicio8-if.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\bin\Debug\net5.0\Exercicio8-if.pdb
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\obj\Debug\net5.0\Exercicio8-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\obj\Debug\net5.0\Exercicio8-if.AssemblyInfoInputs.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\obj\Debug\net5.0\Exercicio8-if.AssemblyInfo.cs
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\obj\Debug\net5.0\Exercicio8-if.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\obj\Debug\net5.0\Exercicio8-if.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\obj\Debug\net5.0\ref\Exercicio8-if.dll
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\obj\Debug\net5.0\Exercicio8-if.pdb
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\obj\Debug\net5.0\Exercicio8-if.genruntimeconfig.cache
+C:\Users\Felipe\Desktop\Exercicios fixação\Exercicio1-if\Exercicio8-if\obj\Debug\net5.0\Exercicio8-if.csproj.AssemblyReference.cache
